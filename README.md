@@ -2,7 +2,7 @@
 
 An end-to-end identity security analytics lab: generate real identity activity in Okta, model the System Log in Databricks, and turn it into a small set of metrics that a security leader can act on.
 
-Dashboard attached
+
 
 ## Why this project
 
